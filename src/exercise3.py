@@ -1,9 +1,6 @@
 #Hours worked and tme taken
 
-prompt_hours = input('Enter hours; ')
-prompt_time = input('Enter time; ')
-result = float(prompt_hours) * float(prompt_time)
-
-#Gross pay
-gross_pay = ('pay;'+ str(result))
-print(gross_pay)
+Hours=float(input('Enter hours; '))
+Rate=float(input("Enter the rate;"))
+Pay=(Hours*Rate)
+print(Pay)
