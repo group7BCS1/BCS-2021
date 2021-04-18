@@ -1,4 +1,4 @@
-# Program that calculates pay of a worker/user
+  # Program that calculates pay of a worker/user
 # Depending on the number of hours worked and rate of payment
 # including try, except
 try:
