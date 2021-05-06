@@ -1,3 +1,4 @@
+print(">>> ========================================RESTART===========================================")
 # PROGRAM COMPUTING AND DISPLAYING INFORMATION FOR A UTILITY COMPANY THAT SUPPLIES WATER
 # function to calculate the number of gallons used
 def gallons_used(x, y):
